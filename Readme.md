@@ -42,5 +42,7 @@ This SQL project focuses on exploring the Nashville housing dataset to clean and
 ## Conclusion
 This project successfully cleaned and prepared the Nashville housing dataset for further analysis. By standardizing date formats, populating missing data, splitting address columns, updating field values, removing duplicates, and deleting unused columns, the dataset is now ready for in-depth analysis and insights.
 
-#### Colophon 
+--- 
+**Colophon**  
+
 thanks Alex for his tutorials and explanations ([Alex The Analyst](https://www.alextheanalyst.com/))
